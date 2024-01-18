@@ -1,4 +1,3 @@
-What is finality and why does it matter for oracles?
-
 Can nodes reverse transaction finality before they’re written on Supra?
+
 answer : B. Blocks on Supra cannot be reversed after they are finalized
